@@ -3,6 +3,7 @@
 A fork of [Gemini](https://github.com/anishathalye/gemini).
 
 ![](assets/poster.png)
+![](assets/poster_dark.png)
 
 ## Dependencies
 
